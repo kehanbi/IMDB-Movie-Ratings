@@ -1,4 +1,6 @@
 # IMDB-Movie-Ratings
+##Explanation
+This project was first published in January 2020, and was republished due to account errors.
 ## About the Data Resource
 [IMDB Movies](https://www.imdb.com/chart/moviemeter/?ref_=nv_mv_mpm)
 ## Steps
